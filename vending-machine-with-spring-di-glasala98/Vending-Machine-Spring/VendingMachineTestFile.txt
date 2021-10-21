@@ -1,0 +1,7 @@
+Kitkat::1.50::13
+Reece's::1.30::18
+Pepsi::1.60::9
+Starburst::1.05::17
+Hershey::2.00::0
+Skittles::2.10::14
+Mountain Dew::2.50::19
